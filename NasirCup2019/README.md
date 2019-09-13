@@ -31,16 +31,23 @@
 ##AE
 > Ebrahim Sheikh
 
-> 
+> Eyebiman@gmail.com
 
 > [SourceCode](https://github.com/ebrahimsheikh/SnakeClient_Python3)
 
-##Force
->
+##StRnR
+> Arshia Majidi
 
->
+> arshia.m1320@gmail.com
 
->
+> [SourceCode](https://github.com/StRnR/SnakeClient_Python3)
+
+## Force
+> Arash Saatchi
+
+> arash99s@yahoo.com
+
+> [SourceCode](https://github.com/arash99s/SnakeClient_Python3)
 
 ##KingSnake
 >
@@ -56,16 +63,3 @@
 
 >
 
-##StRnR
-> Arshia Majidi
-
->
-
-> [SourceCode](https://github.com/StRnR/SnakeClient_Python3)
-
-## Arash
-> Arash Saatchi
-
->
-
-> [SourceCode](https://github.com/arash99s/SnakeClient_Python3)
